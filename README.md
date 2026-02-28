@@ -1,1 +1,4 @@
 # Kamus
+
+*CARA PENGGUNAAN*
+> 2
