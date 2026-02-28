@@ -1,4 +1,4 @@
 # Kamus
 
 *CARA PENGGUNAAN*
-> 2
+$ 2
